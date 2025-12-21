@@ -73,3 +73,6 @@ Untuk menghasilkan file `.apk` siap instal:
     ```
 2.  File APK akan muncul di folder:
     `build/app/outputs/flutter-apk/app-release.apk`
+
+
+[DOWNLOAD APK DISINI](sha256:51df83288053348b02a2b9491ebf3de66edb09638a1bf13533691949ca784f20)
