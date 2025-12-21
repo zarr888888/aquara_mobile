@@ -75,4 +75,4 @@ Untuk menghasilkan file `.apk` siap instal:
     `build/app/outputs/flutter-apk/app-release.apk`
 
 
-[DOWNLOAD APK DISINI](sha256:51df83288053348b02a2b9491ebf3de66edb09638a1bf13533691949ca784f20)
+[DOWNLOAD APK DISINI](https://github.com/zarr888888/aquara_mobile/releases/download/v1.0/app-release.apk)
