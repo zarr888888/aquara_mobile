@@ -1,3 +1,5 @@
+> **CATATAN PENTING:** Aplikasi ini menggunakan Backend Server Lokal (Localhost). Agar APK dapat berjalan dan mengambil data, HP pengguna harus berada dalam satu jaringan Wi-Fi yang sama dengan Laptop Server (IP: 192.168.x.x). Bukti fungsionalitas penuh dapat dilihat pada Video Demo.
+
 # AQUARA Mobile 🐟
 
 Aplikasi Manajemen Budidaya Ikan berbasis Mobile (Android) yang dibangun menggunakan Flutter. Aplikasi ini membantu pembudidaya mengelola kolam, pakan, konsultasi pakar, dan mendapatkan informasi terkini.
